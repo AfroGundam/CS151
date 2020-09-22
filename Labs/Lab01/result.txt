@@ -1,0 +1,10 @@
+Section		Grade
+====================== 
+Part A		1.35/2
+Part B		3/3
+======================
+Total		4.35/5 
+
+Comment:
++ Part A, most of your annswers for part A are just 
+partially correct.  	
