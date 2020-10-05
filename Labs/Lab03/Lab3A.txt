@@ -1,0 +1,33 @@
+bool c;
+if ((a + 1)==b) || ((a-1) == b)
+{
+	c = true;
+}
+
+bool thurs;
+8,15,22,29
+if (dy == 8) || (dy == 15) || (dy == 22) || (dy == 29)
+{
+	thurs = true;
+}
+
+bool dig
+int c = 0
+while (n!=0)
+{
+	n=n/10
+	++c
+}	
+
+if (n < 0) && (c>=4)
+{
+	dig = true;
+}
+
+bool str;
+if dw == "so"
+{
+	str = true;	
+}
+
+
