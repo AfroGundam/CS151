@@ -1,0 +1,18 @@
+Section		Grade
+========================== 
+Part A		0.80/5.00
+Part B		 PND/5.00
+==========================
+Total		0.80/5.00 
+
+Comment:
++ Part A, all problems are not do what 
+was requested.
+
++ Part A, all problems  will not compile.
+
++ Part A, problem 3 will produce inaccurate
+solutions.
+
++ Part A, problem 4 will produce inaccurate
+solutions.
