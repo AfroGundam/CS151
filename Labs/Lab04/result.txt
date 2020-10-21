@@ -1,11 +1,22 @@
 Section		Grade
 ========================== 
 Part A		1.25/2.00
-Part B		 PND/3.00
+Part B		2.35/3.00
 ==========================
-Total		1.25/5.00 
+Total		3.60/5.00 
 
 Comment:
 + Part A, missing an error.
 
 + Part A, a correction is invalid. 
+
++ Part B, function 1 is inaccurate.
+
++ Part B, function 1 is not performing
+requested task.
+
++ Part B, function 2 is not completely
+accurate.
+
++ Part B, function 3 does not perform
+requested task completely.
