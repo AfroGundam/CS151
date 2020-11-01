@@ -1,0 +1,10 @@
+Section		Grade
+============================ 
+Project A	19.30/20.00
+============================
+Total		19.30/20.00 
+
+Comment:
++ The dotProduct() function is inaccurate.
+
++ The display is not formatted as required. 
