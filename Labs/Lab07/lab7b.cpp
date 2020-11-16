@@ -5,34 +5,26 @@ using namespace std;
 
 int PrimeCount(int lo, int hi)
 {
-    int n, amt;
-    amt = hi-lo;
     bool isPrime;
-    
-    // 0 and 1 are not prime numbers
-    for (int x = hi; x > lo ; x--)
-    {
-        cout<<"hi"<<hi<<" "<<lo<<" "<<"lo";
-        if (lo == 0 || lo == 1) 
-        {
+
+    while (lo < hi) {
+        isPrime = true;
+        if (lo == 0 || lo == 1) {
             isPrime = false;
-            
-        } 
-        else 
-        {
-            for (int i = 2; i <= x / 2; ++i) 
-            {
-                if (x % i == 0) 
-                {
+        }
+        else {
+            for (int i = 2; i <= lo / 2; ++i) {
+                if (lo % i == 0) {
                     isPrime = false;
+                    break;
                 }
-                else
-                {
-                    isPrime = true;
-                    cout << x << endl;
-                }                
             }
         }
+        
+        if (isPrime)
+            cout << lo << " ";
+
+        ++lo;
     }
     return 0;
 }
@@ -66,10 +58,22 @@ int main() {
     cin >> x;
     cout << "Enter another positive integer: "<<endl;
     cin >> y;
-    cout << x << " " << y;
+    
+    if(x>y)
+    {
+        int temp;
+        temp = x;
+        x = y;
+        y = temp;
+    }
 
+    cout << "Prime numbers between "<< x<< "and "<< y<< " are:"<<endl;
     PrimeCount(x,y);
-    cout<<endl;
+
+    
+
+    cout<<" " <<endl<<endl;
+    cout<<"Rice permutation"<<endl;
     Permutation("rice", 2);
     
 
