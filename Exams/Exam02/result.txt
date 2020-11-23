@@ -1,0 +1,21 @@
+Section		Grade
+============================ 
+Section I	  4.20/5.00
+Section II	  4.80/5.00
+Section III	  3.25/5.00
+Section IV	  2.50/5.00
+============================
+Total		14.75/20.00 
+
+Comment:
++ Section I, problem a is incomplete.
+
++ Section I, problems b and d have errors.
+
++ Scetion II, the function has an inaccuracy.
+
++ Section III. the table is missing columns.
+
++ Section III, the table has incorrect steps.
+
++ Section IV, the list is missing errors.
