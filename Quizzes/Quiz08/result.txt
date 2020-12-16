@@ -1,8 +1,7 @@
 Section		  Grade
 ============================== 
-Part B		  0.00/5.00
+Fundamentals	  1.50/5.00
 ==============================
-Total		  0.00/5.00 
+Total		  1.50/5.00 
 
 Comment:
-+ Lab is missing.
